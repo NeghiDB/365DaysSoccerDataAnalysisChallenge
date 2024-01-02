@@ -5,9 +5,9 @@ u/Soccerstar12498 on reddit
 Cheatsheet of all current FPL Endpoints
 Here is are the list of endpoints I currently have for the Premier League's API plus a brief description of each one. If there are any endpoints I am missing, please let me know and I will do my best to add them to this list. This is in no way supposed to be a comprehensive documentation for each endpoint, but rather a collection of endpoints in one post.
 
-Generic Information
+                                                    Generic Information
 
-"https://fantasy.premierleague.com/api/bootstrap-static/"
+                                    "https://fantasy.premierleague.com/api/bootstrap-static/"
 
 A brief summary of all 38 GW
 
@@ -25,9 +25,9 @@ List of stats that FPL keeps track of
 
 The different FPL positions
 
-Fixtures
+                                                            Fixtures
 
-"https://fantasy.premierleague.com/api/fixtures/"
+                                        "https://fantasy.premierleague.com/api/fixtures/"
 
 A list of all 380 matches that will happen over the season
 
