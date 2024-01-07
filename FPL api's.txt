@@ -31,27 +31,27 @@ The different FPL positions
 
 A list of all 380 matches that will happen over the season
 
-PL Players
+							PL Players
 
-"https://fantasy.premierleague.com/api/element-summary/{player-id}/"
+				"https://fantasy.premierleague.com/api/element-summary/{player-id}/"
 
 Remaining fixtures left for PL player (example Mustafi has player-id=1, which can be found using bootstrap-static -> elements -> id)
 
 Previous fixtures of PL player
 
-Stats of previous seasons of PL player
+						Stats of previous seasons of PL player
 
-"https://fantasy.premierleague.com/api/event/{GW}/live/"
+					"https://fantasy.premierleague.com/api/event/{GW}/live/"
 
 Stats of all PL players that played in GW
 
-FPL Managers
+								FPL Managers
 
-"https://fantasy.premierleague.com/api/entry/{manager-id}/"
+					"https://fantasy.premierleague.com/api/entry/{manager-id}/"
 
-Basic info on FPL Manager
+							Basic info on FPL Manager
 
-"https://fantasy.premierleague.com/api/entry/{manager-id}/transfers/"
+					"https://fantasy.premierleague.com/api/entry/{manager-id}/transfers/"
 
 A list of every transfer a FPL Manager has made in the current season
 
