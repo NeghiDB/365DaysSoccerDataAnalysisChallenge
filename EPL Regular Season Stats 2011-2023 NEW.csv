@@ -1,0 +1,241 @@
+Rk,Squad,MP,W,D,L,GF,GA,GD,Pts,Pts/MP,xG,xGA,xGD,xGD/90,Attendance,Goalkeeper,Notes,Year,Top Scorer,GF by Top Scorer
+1, Manchester City,38,28,5,5,93,29,64,89,2.34,,,,,"47,045",Joe Hart,? Champions League via league finish,2011-2012,Sergio Agüero , 23
+2, Manchester Utd,38,28,5,5,89,33,56,89,2.34,,,,,"75,387",David de Gea,? Champions League via league finish,,Wayne Rooney , 27
+3, Arsenal,38,21,7,10,74,49,25,70,1.84,,,,,"60,000",Wojciech Szczesny,? Champions League via league finish,,Robin van Persie , 30
+4, Tottenham,38,20,9,9,66,41,25,69,1.82,,,,,"36,036",Brad Friedel,? Europa League via league finish,,Emmanuel Adebayor , 17
+5, Newcastle Utd,38,19,8,11,56,51,5,65,1.71,,,,,"49,951",Tim Krul,? Europa League via league finish,,Demba Ba , 16
+6, Chelsea,38,18,10,10,65,46,19,64,1.68,,,,,"41,484",Petr Cech,? Champions League via Champions League win,,"Frank Lampard, Daniel Sturridge ", 11
+7, Everton,38,15,11,12,50,40,10,56,1.47,,,,,"33,228",Tim Howard,,,Nikica Jelavic , 9
+8, Liverpool,38,14,10,14,47,40,7,52,1.37,,,,,"44,253",Pepe Reina,? Europa League via cup win 1,,Luis Suárez , 11
+9, Fulham,38,14,10,14,48,51,-3,52,1.37,,,,,"25,399",Mark Schwarzer,,,Clint Dempsey , 17
+10, West Brom,38,13,8,17,45,52,-7,47,1.24,,,,,"24,770",Ben Foster,,,Peter Odemwingie , 10
+11, Swansea City,38,12,11,15,44,51,-7,47,1.24,,,,,"19,946",Michel Vorm,,,Danny Graham , 12
+12, Norwich City,38,12,11,15,52,66,-14,47,1.24,,,,,"26,606",John Ruddy,,,Grant Holt , 15
+13, Sunderland,38,11,12,15,45,46,-1,45,1.18,,,,,"39,047",Simon Mignolet,,,Nicklas Bendtner , 8
+14, Stoke City,38,11,12,15,36,53,-17,45,1.18,,,,,"27,226",Asmir Begovic,,,Peter Crouch , 10
+15, Wigan Athletic,38,11,10,17,42,62,-20,43,1.13,,,,,"18,634",Ali Al Habsi,,,Franco Di Santo , 7
+16, Aston Villa,38,7,17,14,37,53,-16,38,1.0,,,,,"33,883",Shay Given,,,Darren Bent , 9
+17, QPR,38,10,7,21,43,66,-23,37,0.97,,,,,"17,295",Paddy Kenny,,,Heiðar Helguson , 8
+18, Bolton,38,10,6,22,46,77,-31,36,0.95,,,,,"23,670",Ádám Bogdán,Relegated,,Ivan Klasnic , 8
+19, Blackburn,38,8,7,23,48,78,-30,31,0.82,,,,,"22,551",Paul Robinson,Relegated,,Yakubu Aiyegbeni , 17
+20, Wolves,38,5,10,23,40,82,-42,25,0.66,,,,,"25,677",Wayne Hennessey,Relegated,,Steven Fletcher , 12
+1, Manchester Utd,38,28,5,5,86,43,43,89,2.34,,,,,"75,530",David de Gea,? Champions League via league finish,2012-2013,Robin van Persie , 26
+2, Manchester City,38,23,9,6,66,34,32,78,2.05,,,,,"46,974",Joe Hart,? Champions League via league finish,,Edin D?eko , 14
+3, Chelsea,38,22,9,7,75,39,36,75,1.97,,,,,"41,462",Petr Cech,? Champions League via league finish,,Frank Lampard , 15
+4, Arsenal,38,21,10,7,72,37,35,73,1.92,,,,,"60,079",Wojciech Szczesny,? Champions League via league finish,,Theo Walcott , 14
+5, Tottenham,38,21,9,8,66,46,20,72,1.89,,,,,"36,066",Hugo Lloris,? Europa League via league finish,,Gareth Bale , 21
+6, Everton,38,16,15,7,55,40,15,63,1.66,,,,,"36,356",Tim Howard,,,Marouane Fellaini , 11
+7, Liverpool,38,16,13,9,71,43,28,61,1.61,,,,,"44,749",Pepe Reina,,,Luis Suárez , 23
+8, West Brom,38,14,7,17,53,57,-4,49,1.29,,,,,"25,202",Ben Foster,,,Romelu Lukaku , 17
+9, Swansea City,38,11,13,14,47,51,-4,46,1.21,,,,,"20,476",Michel Vorm,? Europa League via cup win 1,,Michu , 18
+10, West Ham,38,12,10,16,45,53,-8,46,1.21,,,,,"34,717",Jussi Jääskeläinen,,,Kevin Nolan , 10
+11, Norwich City,38,10,14,14,41,58,-17,44,1.16,,,,,"26,672",Mark Bunn,,,Grant Holt , 8
+12, Fulham,38,11,10,17,50,60,-10,43,1.13,,,,,"25,423",Mark Schwarzer,,,Dimitar Berbatov , 15
+13, Stoke City,38,9,15,14,34,45,-11,42,1.11,,,,,"26,722",Asmir Begovic,,,Jonathan Walters , 8
+14, Southampton,38,9,14,15,49,60,-11,41,1.08,,,,,"30,855",Artur Boruc,,,Rickie Lambert , 15
+15, Aston Villa,38,10,11,17,47,69,-22,41,1.08,,,,,"35,060",Brad Guzan,,,Christian Benteke , 19
+16, Newcastle Utd,38,11,8,19,45,68,-23,41,1.08,,,,,"50,517",Tim Krul,,,Demba Ba , 13
+17, Sunderland,38,9,12,17,41,54,-13,39,1.03,,,,,"40,563",Simon Mignolet,,,Steven Fletcher , 11
+18, Wigan Athletic,38,9,9,20,47,73,-26,36,0.95,,,,,"19,359",Ali Al Habsi,"Relegated, ? Europa League via cup win 2",,Arouna Koné , 11
+19, Reading,38,6,10,22,43,73,-30,28,0.74,,,,,"23,862",Adam Federici,Relegated,,Adam le Fondre , 12
+20, QPR,38,4,13,21,30,60,-30,25,0.66,,,,,"17,779",Júlio César,Relegated,,Loïc Rémy , 6
+1, Manchester City,38,27,5,6,102,37,65,86,2.26,,,,,"47,075",Joe Hart,? Champions League via league finish,2013/2014,Yaya Touré , 20
+2, Liverpool,38,26,6,6,101,50,51,84,2.21,,,,,"44,671",Simon Mignolet,? Champions League via league finish,,Luis Suárez , 31
+3, Chelsea,38,25,7,6,71,27,44,82,2.16,,,,,"41,482",Petr Cech,? Champions League via league finish,,Eden Hazard , 14
+4, Arsenal,38,24,7,7,68,41,27,79,2.08,,,,,"60,013",Wojciech Szczesny,? Champions League via league finish,,Olivier Giroud , 16
+5, Everton,38,21,9,8,61,39,22,72,1.89,,,,,"37,732",Tim Howard,? Europa League via league finish 1,,Romelu Lukaku , 15
+6, Tottenham,38,21,6,11,55,51,4,69,1.82,,,,,"35,808",Hugo Lloris,? Europa League via league finish,,Emmanuel Adebayor , 11
+7, Manchester Utd,38,19,7,12,64,43,21,64,1.68,,,,,"75,207",David de Gea,,,Wayne Rooney , 17
+8, Southampton,38,15,11,12,54,46,8,56,1.47,,,,,"30,212",Artur Boruc,,,Jay Rodriguez , 15
+9, Stoke City,38,13,11,14,45,52,-7,50,1.32,,,,,"26,137",Asmir Begovic,,,Charlie Adam , 8
+10, Newcastle Utd,38,15,4,19,43,59,-16,49,1.29,,,,,"50,395",Tim Krul,,,Loïc Rémy , 14
+11, Crystal Palace,38,13,6,19,33,48,-15,45,1.18,,,,,"24,375",Julián Speroni,,,"Dwight Gayle, Jason Puncheon ", 7
+12, Swansea City,38,11,9,18,54,54,0,42,1.11,,,,,"20,407",Michel Vorm,,,Wilfried Bony , 16
+13, West Ham,38,11,7,20,40,51,-11,40,1.05,,,,,"34,197",Adrián,,,Kevin Nolan , 7
+14, Sunderland,38,10,8,20,41,60,-19,38,1.0,,,,,"41,090",Vito Mannone,,,Adam Johnson , 8
+15, Aston Villa,38,10,8,20,39,61,-22,38,1.0,,,,,"36,081",Brad Guzan,,,Christian Benteke , 10
+16, Hull City,38,10,7,21,38,53,-15,37,0.97,,,,,"24,117",Allan McGregor,? Europa League via cup loss 2,,Nikica Jelavic , 5
+17, West Brom,38,7,15,16,43,59,-16,36,0.95,,,,,"25,194",Ben Foster,,,"Saido Berahino, Stéphane Sessègnon ", 5
+18, Norwich City,38,8,9,21,28,62,-34,33,0.87,,,,,"26,805",John Ruddy,Relegated,,"Gary Hooper, Robert Snodgrass ", 6
+19, Fulham,38,9,5,24,40,85,-45,32,0.84,,,,,"24,977",David Stockdale,Relegated,,Steve Sidwell , 7
+20, Cardiff City,38,7,9,22,32,74,-42,30,0.79,,,,,"27,430",David Marshall,Relegated,,Jordon Mutch , 7
+1, Chelsea,38,26,9,3,73,32,41,87,2.29,,,,,"41,546",Thibaut Courtois,? Champions League via league finish,2014/2015,Diego Costa , 20
+2, Manchester City,38,24,7,7,83,38,45,79,2.08,,,,,"45,365",Joe Hart,? Champions League via league finish,,Sergio Agüero , 26
+3, Arsenal,38,22,9,7,71,36,35,75,1.97,,,,,"59,992",David Ospina,? Champions League via league finish,,Alexis Sánchez , 16
+4, Manchester Utd,38,20,10,8,62,37,25,70,1.84,,,,,"75,335",David de Gea,? Champions League via league finish,,Wayne Rooney , 12
+5, Tottenham,38,19,7,12,58,53,5,64,1.68,,,,,"35,728",Hugo Lloris,? Europa League via league finish,,Harry Kane , 21
+6, Liverpool,38,18,8,12,52,48,4,62,1.63,,,,,"44,659",Simon Mignolet,? Europa League via league finish 1,,Steven Gerrard , 9
+7, Southampton,38,18,6,14,54,33,21,60,1.58,,,,,"30,741",Fraser Forster,? Europa League via league finish 2,,Graziano Pellè , 12
+8, Swansea City,38,16,8,14,46,49,-3,56,1.47,,,,,"20,555",Lukasz Fabianski,,,Wilfried Bony , 9
+9, Stoke City,38,15,9,14,48,45,3,54,1.42,,,,,"27,081",Asmir Begovic,,,Mame Biram Diouf , 11
+10, Crystal Palace,38,13,9,16,47,51,-4,48,1.26,,,,,"24,421",Julián Speroni,,,Glenn Murray , 7
+11, Everton,38,12,11,15,48,50,-2,47,1.24,,,,,"37,406",Tim Howard,,,Romelu Lukaku , 10
+12, West Ham,38,12,11,15,44,47,-3,47,1.24,,,,,"34,846",Adrián,? Europa League 3,,Diafra Sakho , 10
+13, West Brom,38,11,11,16,38,51,-13,44,1.16,,,,,"25,064",Ben Foster,,,Saido Berahino , 14
+14, Leicester City,38,11,8,19,46,55,-9,41,1.08,,,,,"31,693",Kasper Schmeichel,,,Leonardo Ulloa , 11
+15, Newcastle Utd,38,10,9,19,40,63,-23,39,1.03,,,,,"50,359",Tim Krul,,,Papiss Cissé , 11
+16, Sunderland,38,7,17,14,31,53,-22,38,1.0,,,,,"43,157",Costel Pantilimon,,,"Steven Fletcher, Connor Wickham ", 5
+17, Aston Villa,38,10,8,20,31,57,-26,38,1.0,,,,,"34,133",Brad Guzan,,,Christian Benteke , 13
+18, Hull City,38,8,11,19,33,51,-18,35,0.92,,,,,"23,557",Allan McGregor,Relegated,,Nikica Jelavic , 8
+19, Burnley,38,7,12,19,28,53,-25,33,0.87,,,,,"19,131",Tom Heaton,Relegated,,Danny Ings , 11
+20, QPR,38,8,6,24,42,73,-31,30,0.79,,,,,"17,809",Robert Green,Relegated,,Charlie Austin , 18
+1, Leicester City,38,23,12,3,68,36,32,81,2.13,,,,,"31,998",Kasper Schmeichel,? Champions League via league finish,2015/2016,Jamie Vardy , 24
+2, Arsenal,38,20,11,7,65,36,29,71,1.87,,,,,"59,944",Petr Cech,? Champions League via league finish,,Olivier Giroud , 16
+3, Tottenham,38,19,13,6,69,35,34,70,1.84,,,,,"35,776",Hugo Lloris,? Champions League via league finish,,Harry Kane , 25
+4, Manchester City,38,19,9,10,71,41,30,66,1.74,,,,,"54,041",Joe Hart,? Champions League via league finish,,Sergio Agüero , 24
+5, Manchester Utd,38,19,9,10,49,35,14,66,1.74,,,,,"75,286",David de Gea,? Europa League via cup win 1,,Anthony Martial , 11
+6, Southampton,38,18,9,11,59,41,18,63,1.66,,,,,"30,751",Fraser Forster,? Europa League via league finish 2,,"Sadio Mané, Graziano Pellè ", 11
+7, West Ham,38,16,14,8,65,51,14,62,1.63,,,,,"34,910",Adrián,? Europa League via league finish 3,,"Dimitri Payet, Andy Carroll ", 9
+8, Liverpool,38,16,12,10,63,50,13,60,1.58,,,,,"43,910",Simon Mignolet,,,Roberto Firmino , 10
+9, Stoke City,38,14,9,15,41,55,-14,51,1.34,,,,,"27,534",Jack Butland,,,Marko Arnautovic , 11
+10, Chelsea,38,12,14,12,59,53,6,50,1.32,,,,,"41,500",Thibaut Courtois,,,Diego Costa , 12
+11, Everton,38,11,14,13,59,55,4,47,1.24,,,,,"38,124",Tim Howard,,,Romelu Lukaku , 18
+12, Swansea City,38,12,11,15,42,52,-10,47,1.24,,,,,"20,711",Lukasz Fabianski,,,André Ayew , 12
+13, Watford,38,12,9,17,40,50,-10,45,1.18,,,,,"20,594",Heurelho Gomes,,,Odion Ighalo , 15
+14, West Brom,38,10,13,15,34,48,-14,43,1.13,,,,,"24,631",Boaz Myhill,,,Salomón Rondón , 9
+15, Crystal Palace,38,11,9,18,39,51,-12,42,1.11,,,,,"24,825",Wayne Hennessey,,,"Scott Dann, Yohan Cabaye... ", 5
+16, Bournemouth,38,11,9,18,45,67,-22,42,1.11,,,,,"11,189",Artur Boruc,,,Joshua King , 6
+17, Sunderland,38,9,12,17,48,62,-14,39,1.03,,,,,"43,071",Vito Mannone,,,Jermain Defoe , 15
+18, Newcastle Utd,38,9,10,19,44,65,-21,37,0.97,,,,,"49,754",Rob Elliot,Relegated,,Georginio Wijnaldum , 11
+19, Norwich City,38,9,7,22,39,67,-28,34,0.89,,,,,"26,972",John Ruddy,Relegated,,Dieumerci Mbokani , 7
+20, Aston Villa,38,3,8,27,27,76,-49,17,0.45,,,,,"33,690",Brad Guzan,Relegated,,Jordan Ayew , 7
+1, Chelsea,38,30,3,5,85,33,52,93,2.45,,,,,"41,508",Thibaut Courtois,? Champions League via league finish,2016/2017,Diego Costa , 20
+2, Tottenham,38,26,8,4,86,26,60,86,2.26,,,,,"31,639",Hugo Lloris,? Champions League via league finish,,Harry Kane , 29
+3, Manchester City,38,23,9,6,80,39,41,78,2.05,,,,,"54,019",Claudio Bravo,? Champions League via league finish,,Sergio Agüero , 20
+4, Liverpool,38,22,10,6,78,42,36,76,2.0,,,,,"53,016",Simon Mignolet,? Champions League via league finish,,"Philippe Coutinho, Sadio Mané ", 13
+5, Arsenal,38,23,6,9,77,44,33,75,1.97,,,,,"59,957",Petr Cech,? Europa League via cup win 1,,Alexis Sánchez , 24
+6, Manchester Utd,38,18,15,5,54,29,25,69,1.82,,,,,"75,290",David de Gea,? Champions League via Europa League win,,Zlatan Ibrahimovic , 17
+7, Everton,38,17,10,11,62,44,18,61,1.61,,,,,"39,047",Joel Robles,? Europa League via league finish,,Romelu Lukaku , 25
+8, Southampton,38,12,10,16,41,48,-7,46,1.21,,,,,"30,936",Fraser Forster,,,Nathan Redmond , 7
+9, Bournemouth,38,12,10,16,55,67,-12,46,1.21,,,,,"11,182",Artur Boruc,,,Joshua King , 16
+10, West Brom,38,12,9,17,43,51,-8,45,1.18,,,,,"23,876",Ben Foster,,,Salomón Rondón , 8
+11, West Ham,38,12,9,17,47,64,-17,45,1.18,,,,,"56,972",Darren Randolph,,,Michail Antonio , 9
+12, Leicester City,38,12,8,18,48,63,-15,44,1.16,,,,,"31,893",Kasper Schmeichel,,,Jamie Vardy , 13
+13, Stoke City,38,11,11,16,41,56,-15,44,1.16,,,,,"27,433",Lee Grant,,,Peter Crouch , 7
+14, Crystal Palace,38,12,5,21,50,63,-13,41,1.08,,,,,"25,161",Wayne Hennessey,,,Christian Benteke , 15
+15, Swansea City,38,12,5,21,45,70,-25,41,1.08,,,,,"20,619",Lukasz Fabianski,,,Fernando Llorente , 15
+16, Burnley,38,11,7,20,39,55,-16,40,1.05,,,,,"20,558",Tom Heaton,,,Sam Vokes , 10
+17, Watford,38,11,7,20,40,68,-28,40,1.05,,,,,"20,571",Heurelho Gomes,,,Troy Deeney , 10
+18, Hull City,38,9,7,22,37,80,-43,34,0.89,,,,,"20,761",Eldin Jakupovic,Relegated,,Robert Snodgrass , 7
+19, Middlesbrough,38,5,13,20,27,53,-26,28,0.74,,,,,"30,449",Víctor Valdés,Relegated,,Álvaro Negredo , 9
+20, Sunderland,38,6,6,26,29,69,-40,24,0.63,,,,,"41,287",Jordan Pickford,Relegated,,Jermain Defoe , 15
+1, Manchester City,38,32,4,2,106,27,79,100,2.63,78.6,23.8,54.8,1.44,"54,070",Ederson,? Champions League via league finish,2017/2018,Sergio Agüero , 21
+2, Manchester Utd,38,25,6,7,68,28,40,81,2.13,55.7,40.7,15.0,0.4,"74,976",David de Gea,? Champions League via league finish,,Romelu Lukaku , 16
+3, Tottenham,38,23,8,7,74,36,38,77,2.03,64.7,33.9,30.8,0.81,"67,953",Hugo Lloris,? Champions League via league finish,,Harry Kane , 30
+4, Liverpool,38,21,12,5,84,38,46,75,1.97,72.9,33.8,39.1,1.03,"53,049","Loris Karius, Simon Mignolet",? Champions League via league finish,,Mohamed Salah , 32
+5, Chelsea,38,21,7,10,62,38,24,70,1.84,54.4,33.8,20.6,0.54,"41,282",Thibaut Courtois,? Europa League via cup win 1,,Eden Hazard , 12
+6, Arsenal,38,19,6,13,74,51,23,63,1.66,68.3,47.8,20.5,0.54,"59,323",Petr Cech,? Europa League via league finish,,Alexandre Lacazette , 14
+7, Burnley,38,14,12,12,36,39,-3,54,1.42,32.3,51.2,-18.9,-0.5,"20,688",Nick Pope,? Europa League via league finish 2,,Chris Wood , 10
+8, Everton,38,13,10,15,44,58,-14,49,1.29,40.5,52.4,-11.9,-0.31,"38,797",Jordan Pickford,,,Wayne Rooney , 10
+9, Leicester City,38,12,11,15,56,60,-4,47,1.24,50.0,48.1,1.9,0.05,"31,583",Kasper Schmeichel,,,Jamie Vardy , 20
+10, Newcastle Utd,38,12,8,18,39,47,-8,44,1.16,41.6,52.4,-10.8,-0.28,"51,992",Rob Elliot,,,Ayoze Pérez , 8
+11, Crystal Palace,38,11,11,16,45,55,-10,44,1.16,53.5,48.2,5.2,0.14,"25,063",Wayne Hennessey,,,Luka Milivojevic , 10
+12, Bournemouth,38,11,11,16,45,61,-16,44,1.16,38.8,59.2,-20.4,-0.54,"10,641",Asmir Begovic,,,"Joshua King, Callum Wilson ", 8
+13, West Ham,38,10,12,16,48,68,-20,42,1.11,36.7,55.1,-18.4,-0.48,"56,885","Joe Hart, Adrián",,,Marko Arnautovic , 11
+14, Watford,38,11,8,19,44,64,-20,41,1.08,45.0,51.8,-6.8,-0.18,"20,231",Heurelho Gomes,,,Abdoulaye Doucouré , 7
+15, Brighton,38,9,13,16,34,54,-20,40,1.05,37.0,50.8,-13.8,-0.36,"30,403",Mathew Ryan,,,Glenn Murray , 12
+16, Huddersfield,38,9,10,19,28,58,-30,37,0.97,31.3,48.5,-17.2,-0.45,"24,040",Jonas Lössl,,,Steve Mounié , 7
+17, Southampton,38,7,15,16,37,56,-19,36,0.95,39.9,45.2,-5.3,-0.14,"30,794",Fraser Forster,,,Charlie Austin , 7
+18, Swansea City,38,8,9,21,28,56,-28,33,0.87,31.6,58.6,-27.0,-0.71,"20,623",Lukasz Fabianski,Relegated,,Jordan Ayew , 7
+19, Stoke City,38,7,12,19,35,68,-33,33,0.87,36.5,62.5,-26.0,-0.69,"29,280",Jack Butland,Relegated,,Xherdan Shaqiri , 8
+20, West Brom,38,6,13,19,31,56,-25,31,0.82,36.5,47.9,-11.4,-0.3,"24,520",Ben Foster,Relegated,,"Jay Rodriguez, Salomón Rondón ", 7
+1, Manchester City,38,32,2,4,95,23,72,98,2.58,84.3,24.7,59.6,1.57,"54,130",Ederson,? Champions League via league finish,2018/2019,Sergio Agüero , 21
+2, Liverpool,38,30,7,1,89,22,67,97,2.55,73.7,28.8,44.9,1.18,"52,983",Alisson,? Champions League via league finish,,"Sadio Mané, Mohamed Salah ", 22
+3, Chelsea,38,21,9,8,63,39,24,72,1.89,58.6,36.4,22.2,0.58,"40,437",Kepa Arrizabalaga,? Champions League via league finish,,Eden Hazard , 16
+4, Tottenham,38,23,2,13,67,39,28,71,1.87,54.9,47.1,7.8,0.2,"54,216",Hugo Lloris,? Champions League via league finish,,Harry Kane , 17
+5, Arsenal,38,21,7,10,73,51,22,70,1.84,60.1,54.2,5.9,0.15,"59,899",Bernd Leno,? Europa League via league finish,,Pierre Emerick Aubameyang , 22
+6, Manchester Utd,38,19,9,10,65,54,11,66,1.74,61.4,50.6,10.8,0.29,"74,498",David de Gea,? Europa League via league finish 1,,Paul Pogba , 13
+7, Wolves,38,16,9,13,47,46,1,57,1.5,52.1,42.1,10.1,0.26,"31,030",Rui Patrício,? Europa League via league finish,,Raúl Jiménez , 13
+8, Everton,38,15,9,14,54,46,8,54,1.42,49.7,45.7,4.0,0.1,"39,043",Jordan Pickford,,,"Gylfi Sigurðsson, Richarlison ", 13
+9, Leicester City,38,15,7,16,51,48,3,52,1.37,52.4,43.7,8.7,0.23,"31,851",Kasper Schmeichel,,,Jamie Vardy , 18
+10, West Ham,38,15,7,16,52,55,-3,52,1.37,47.6,61.9,-14.3,-0.38,"58,336",Lukasz Fabianski,,,Marko Arnautovic , 10
+11, Watford,38,14,8,16,52,59,-7,50,1.32,48.2,59.2,-11.0,-0.29,"20,016",Ben Foster,,,Gerard Deulofeu , 10
+12, Crystal Palace,38,14,7,17,51,53,-2,49,1.29,47.6,50.1,-2.5,-0.07,"25,455",Vicente Guaita,,,Luka Milivojevic , 12
+13, Newcastle Utd,38,12,9,17,42,48,-6,45,1.18,39.1,53.6,-14.5,-0.38,"51,121",Martin Dúbravka,,,Ayoze Pérez , 12
+14, Bournemouth,38,13,6,19,56,70,-14,45,1.18,53.3,57.2,-3.9,-0.1,"10,532",Asmir Begovic,,,Callum Wilson , 14
+15, Burnley,38,11,7,20,45,68,-23,40,1.05,44.4,62.1,-17.7,-0.47,"20,534","Tom Heaton, Joe Hart",,,Ashley Barnes , 12
+16, Southampton,38,9,12,17,45,65,-20,39,1.03,46.9,55.1,-8.2,-0.22,"30,139",Alex McCarthy,,,"Danny Ings, James Ward Prowse ", 7
+17, Brighton,38,9,9,20,35,60,-25,36,0.95,35.3,59.1,-23.8,-0.63,"30,426",Mathew Ryan,,,Glenn Murray , 13
+18, Cardiff City,38,10,4,24,34,69,-35,34,0.89,42.4,61.5,-19.1,-0.5,"31,408",Neil Etheridge,Relegated,,"Bobby Reid, Víctor Camarasa ", 5
+19, Fulham,38,7,5,26,34,81,-47,26,0.68,41.3,68.2,-26.8,-0.71,"24,371",Sergio Rico,Relegated,,Aleksandar Mitrovic , 11
+20, Huddersfield,38,3,7,28,22,76,-54,16,0.42,28.8,60.9,-32.2,-0.85,"23,203",Jonas Lössl,Relegated,,Karlan Grant , 4
+1, Liverpool,38,32,3,3,85,33,52,99,2.61,68.9,37.7,31.2,0.82,"41,955",Alisson,? Champions League via league finish,2019/2020,Mohamed Salah , 19
+2, Manchester City,38,26,3,9,102,35,67,81,2.13,92.0,36.2,55.7,1.47,"37,097",Ederson,? Champions League via league finish,,Raheem Sterling , 20
+3, Manchester Utd,38,18,12,8,66,36,30,66,1.74,62.2,37.7,24.5,0.64,"57,415",David de Gea,? Champions League via league finish,,"Anthony Martial, Marcus Rashford ", 17
+4, Chelsea,38,20,6,12,69,54,15,66,1.74,69.2,38.6,30.6,0.81,"32,023",Kepa Arrizabalaga,? Champions League via league finish,,Tammy Abraham , 15
+5, Leicester City,38,18,8,12,67,41,26,62,1.63,62.2,45.5,16.7,0.44,"25,312",Kasper Schmeichel,? Europa League via league finish,,Jamie Vardy , 23
+6, Tottenham,38,16,11,11,61,47,14,59,1.55,47.9,54.2,-6.3,-0.17,"43,757",Hugo Lloris,? Europa League via league finish 1,,Harry Kane , 18
+7, Wolves,38,15,14,9,51,40,11,59,1.55,54.1,38.0,16.1,0.42,"24,758",Rui Patrício,,,Raúl Jiménez , 17
+8, Arsenal,38,14,14,10,56,48,8,56,1.47,47.0,55.3,-8.3,-0.22,"47,589",Bernd Leno,? Europa League via cup win 2,,Pierre Emerick Aubameyang , 22
+9, Sheffield Utd,38,14,12,12,39,39,0,54,1.42,43.0,51.0,-7.9,-0.21,"24,370",Dean Henderson,,,"Lys Mousset, Oliver McBurnie ", 6
+10, Burnley,38,15,9,14,43,50,-7,54,1.42,47.4,49.8,-2.4,-0.06,"15,995",Nick Pope,,,Chris Wood , 14
+11, Southampton,38,15,7,16,51,60,-9,52,1.37,56.1,52.8,3.3,0.09,"23,428",Alex McCarthy,,,Danny Ings , 22
+12, Everton,38,13,10,15,44,56,-12,49,1.29,50.8,48.3,2.5,0.07,"28,848",Jordan Pickford,,,"Dominic Calvert Lewin, Richarlison ", 13
+13, Newcastle Utd,38,11,11,16,38,58,-20,44,1.16,35.5,65.6,-30.1,-0.79,"35,551",Martin Dúbravka,,,Jonjo Shelvey , 6
+14, Crystal Palace,38,11,10,17,31,50,-19,43,1.13,35.8,57.0,-21.2,-0.56,"19,784",Vicente Guaita,,,Jordan Ayew , 9
+15, Brighton,38,9,14,15,39,54,-15,41,1.08,45.4,55.0,-9.5,-0.25,"22,369",Mathew Ryan,,,Neal Maupay , 10
+16, West Ham,38,10,9,19,49,62,-13,39,1.03,48.6,63.8,-15.2,-0.4,"44,155",Lukasz Fabianski,,,Michail Antonio , 10
+17, Aston Villa,38,9,8,21,41,67,-26,35,0.92,44.3,67.8,-23.5,-0.62,"28,505",Tom Heaton,,,Jack Grealish , 8
+18, Bournemouth,38,9,7,22,40,65,-25,34,0.89,44.8,62.3,-17.5,-0.46,"7,745",Aaron Ramsdale,Relegated,,Callum Wilson , 8
+19, Watford,38,8,10,20,36,64,-28,34,0.89,48.9,58.1,-9.3,-0.24,"15,353",Ben Foster,Relegated,,Troy Deeney , 10
+20, Norwich City,38,5,6,27,26,75,-49,21,0.55,37.0,66.5,-29.5,-0.78,"19,913",Tim Krul,Relegated,,Teemu Pukki , 11
+1, Manchester City,38,27,5,6,83,32,51,86,2.26,68.2,30.2,38.0,1.0,526,Ederson,? Champions League via league finish,2020/2021,Ilkay Gündogan , 13
+2, Manchester Utd,38,21,11,6,73,44,29,74,1.95,60.1,41.4,18.6,0.49,526,David de Gea,? Champions League via league finish,,Bruno Fernandes , 18
+3, Liverpool,38,20,9,9,68,42,26,69,1.82,67.5,43.0,24.5,0.65,837,Alisson,? Champions League via league finish,,Mohamed Salah , 22
+4, Chelsea,38,19,10,9,58,36,22,67,1.76,62.4,30.3,32.1,0.85,526,Edouard Mendy,? Champions League via league finish,,Jorginho , 7
+5, Leicester City,38,20,6,12,68,50,18,66,1.74,55.8,46.0,9.8,0.26,421,Kasper Schmeichel,? Europa League via cup win,,Jamie Vardy , 15
+6, West Ham,38,19,8,11,62,47,15,65,1.71,55.4,48.7,6.7,0.18,632,Lukasz Fabianski,? Europa League via league finish,,"Michail Antonio, Tomá? Soucek ", 10
+7, Tottenham,38,18,8,12,68,45,23,62,1.63,53.1,49.1,4.0,0.1,632,Hugo Lloris,? Europa Conference League via league finish 1,,Harry Kane , 23
+8, Arsenal,38,18,7,13,55,39,16,61,1.61,51.8,43.0,8.8,0.23,632,Bernd Leno,,,Alexandre Lacazette , 13
+9, Leeds United,38,18,5,15,62,54,8,59,1.55,55.6,57.9,-2.2,-0.06,421,Illan Meslier,,,Patrick Bamford , 17
+10, Everton,38,17,8,13,47,48,-1,59,1.55,45.7,50.1,-4.5,-0.12,368,Jordan Pickford,,,Dominic Calvert Lewin , 16
+11, Aston Villa,38,16,7,15,55,46,9,55,1.45,52.5,51.1,1.4,0.04,526,Emiliano Martínez,,,Ollie Watkins , 14
+12, Newcastle Utd,38,12,9,17,46,62,-16,45,1.18,43.4,58.3,-14.9,-0.39,526,Karl Darlow,,,Callum Wilson , 12
+13, Wolves,38,12,9,17,36,52,-16,45,1.18,36.5,49.5,-13.0,-0.34,237,Rui Patrício,,,"Rúben Neves, Pedro Neto ", 5
+14, Crystal Palace,38,12,8,18,41,66,-25,44,1.16,34.1,58.2,-24.2,-0.64,447,Vicente Guaita,,,Wilfried Zaha , 11
+15, Southampton,38,12,7,19,47,68,-21,43,1.13,41.2,53.1,-11.8,-0.31,526,Alex McCarthy,,,Danny Ings , 12
+16, Brighton,38,9,14,15,40,46,-6,41,1.08,50.9,35.3,15.6,0.41,523,Robert Sánchez,,,Neal Maupay , 8
+17, Burnley,38,10,9,19,33,55,-22,39,1.03,39.3,54.7,-15.4,-0.4,178,Nick Pope,,,Chris Wood , 12
+18, Fulham,38,5,13,20,27,53,-26,28,0.74,40.5,52.6,-12.1,-0.32,211,Alphonse Areola,Relegated,,Bobby Reid , 5
+19, West Brom,38,5,11,22,35,76,-41,26,0.68,35.8,67.9,-32.0,-0.84,283,Sam Johnstone,Relegated,,Matheus Pereira , 11
+20, Sheffield Utd,38,7,2,29,20,63,-43,23,0.61,32.6,62.2,-29.6,-0.78,263,Aaron Ramsdale,Relegated,,David McGoldrick , 8
+1, Manchester City,38,29,6,3,99,26,73,93,2.45,88.7,24.6,64.0,1.68,"52,774",Ederson,? Champions League via league finish,2021/2022,Kevin De Bruyne , 15
+2, Liverpool,38,28,8,2,94,26,68,92,2.42,88.7,33.8,54.9,1.45,"53,352",Alisson,? Champions League via league finish,,Mohamed Salah , 23
+3, Chelsea,38,21,11,6,76,33,43,74,1.95,63.4,33.2,30.1,0.79,"36,443",Edouard Mendy,? Champions League via league finish,,Mason Mount , 11
+4, Tottenham,38,22,5,11,69,40,29,71,1.87,61.2,39.3,21.9,0.58,"56,523",Hugo Lloris,? Champions League via league finish,,Son Heung min , 23
+5, Arsenal,38,22,3,13,61,48,13,69,1.82,60.5,45.7,14.9,0.39,"59,665",Aaron Ramsdale,? Europa League via league finish,,Bukayo Saka , 11
+6, Manchester Utd,38,16,10,12,57,57,0,58,1.53,55.8,53.0,2.8,0.07,"73,150",David de Gea,? Europa League via league finish,,Cristiano Ronaldo , 18
+7, West Ham,38,16,8,14,60,51,9,56,1.47,51.4,53.5,-2.1,-0.06,"58,370",Lukasz Fabianski,? Europa Conference League via league finish,,Jarrod Bowen , 12
+8, Leicester City,38,14,10,14,62,59,3,52,1.37,47.8,59.3,-11.5,-0.3,"32,493",Kasper Schmeichel,,,Jamie Vardy , 15
+9, Brighton,38,12,15,11,42,44,-2,51,1.34,46.2,42.9,3.3,0.09,"30,966",Robert Sánchez,,,"Leandro Trossard, Neal Maupay ", 8
+10, Wolves,38,15,6,17,38,43,-5,51,1.34,37.5,56.9,-19.4,-0.51,"30,841",José Sá,,,Raúl Jiménez , 6
+11, Newcastle Utd,38,13,10,15,44,62,-18,49,1.29,38.1,57.1,-19.0,-0.5,"51,487",Martin Dúbravka,,,Callum Wilson , 8
+12, Crystal Palace,38,11,15,12,50,46,4,48,1.26,46.4,40.7,5.7,0.15,"24,588",Vicente Guaita,,,Wilfried Zaha , 14
+13, Brentford,38,13,7,18,48,56,-8,46,1.21,45.8,48.5,-2.7,-0.07,"16,918",David Raya,,,Ivan Toney , 12
+14, Aston Villa,38,13,6,19,52,54,-2,45,1.18,44.0,49.0,-4.9,-0.13,"41,681",Emiliano Martínez,,,Ollie Watkins , 11
+15, Southampton,38,9,13,16,43,67,-24,40,1.05,44.8,60.0,-15.2,-0.4,"30,134",Fraser Forster,,,James Ward Prowse , 10
+16, Everton,38,11,6,21,43,66,-23,39,1.03,41.2,55.4,-14.2,-0.37,"38,446",Jordan Pickford,,,Richarlison , 10
+17, Leeds United,38,9,11,18,42,79,-37,38,1.0,44.4,67.8,-23.5,-0.62,"36,308",Illan Meslier,,,Raphinha , 11
+18, Burnley,38,7,14,17,34,53,-19,35,0.92,39.7,57.1,-17.4,-0.46,"19,278",Nick Pope,Relegated,,Maxwel Cornet , 9
+19, Watford,38,6,5,27,34,77,-43,23,0.61,40.0,64.5,-24.5,-0.64,"20,614",Ben Foster,Relegated,,Emmanuel Dennis , 10
+20, Norwich City,38,5,7,26,23,84,-61,22,0.58,32.3,75.5,-43.2,-1.14,"26,836",Tim Krul,Relegated,,Teemu Pukki , 11
+1, Manchester City,38,28,5,5,94,33,61,89,2.34,78.6,32.1,46.5,1.22,"53,249",Ederson,? Champions League via league finish,2022/2023,Erling Haaland , 36
+2, Arsenal,38,26,6,6,88,43,45,84,2.21,71.9,42.0,29.9,0.79,"60,191",Aaron Ramsdale,? Champions League via league finish,,"Martin Ødegaard, Gabriel Martinelli ", 15
+3, Manchester Utd,38,23,6,9,58,43,15,75,1.97,67.7,50.4,17.3,0.45,"73,671",David de Gea,? Champions League via league finish,,Marcus Rashford , 17
+4, Newcastle Utd,38,19,14,5,68,33,35,71,1.87,72.0,39.6,32.4,0.85,"52,127",Nick Pope,? Champions League via league finish,,Callum Wilson , 18
+5, Liverpool,38,19,10,9,75,47,28,67,1.76,72.6,50.9,21.7,0.57,"53,163",Alisson,? Europa League via league finish,,Mohamed Salah , 19
+6, Brighton,38,18,8,12,72,53,19,62,1.63,73.3,50.2,23.1,0.61,"31,477",Robert Sánchez,? Europa League via league finish,,Alexis Mac Allister , 10
+7, Aston Villa,38,18,7,13,51,46,5,61,1.61,50.2,52.5,-2.2,-0.06,"39,485",Emiliano Martínez,? Europa Conference League via league finish,,Ollie Watkins , 15
+8, Tottenham,38,18,6,14,70,63,7,60,1.58,57.1,49.7,7.4,0.2,"61,585",Hugo Lloris,,,Harry Kane , 30
+9, Brentford,38,15,14,9,58,46,12,59,1.55,56.8,49.9,6.8,0.18,"17,078",David Raya,,,Ivan Toney , 20
+10, Fulham,38,15,7,16,55,53,2,52,1.37,46.2,63.8,-17.6,-0.46,"23,746",Bernd Leno,,,Aleksandar Mitrovic , 14
+11, Crystal Palace,38,11,12,15,40,49,-9,45,1.18,39.3,48.1,-8.8,-0.23,"24,952",Vicente Guaita,,,Eberechi Eze , 10
+12, Chelsea,38,11,11,16,38,47,-9,44,1.16,49.5,52.5,-3.0,-0.08,"40,002",Kepa Arrizabalaga,,,Kai Havertz , 7
+13, Wolves,38,11,8,19,31,58,-27,41,1.08,36.8,59.9,-23.1,-0.61,"31,482",José Sá,,,"Rúben Neves, Daniel Podence ", 6
+14, West Ham,38,11,7,20,42,55,-13,40,1.05,49.2,53.0,-3.9,-0.1,"62,462",Lukasz Fabianski,,,"Saïd Benrahma, Jarrod Bowen ", 6
+15, Bournemouth,38,11,6,21,37,71,-34,39,1.03,38.6,63.9,-25.3,-0.67,"10,362",Neto,,,Philip Billing , 7
+16, Nott'ham Forest,38,9,11,18,38,68,-30,38,1.0,39.3,64.2,-24.9,-0.66,"29,188",Dean Henderson,,,Taiwo Awoniyi , 10
+17, Everton,38,8,12,18,34,57,-23,36,0.95,45.2,65.7,-20.5,-0.54,"39,243",Jordan Pickford,,,Dwight McNeil , 7
+18, Leicester City,38,9,7,22,51,68,-17,34,0.89,50.6,63.4,-12.8,-0.34,"31,887",Danny Ward,Relegated,,Harvey Barnes , 13
+19, Leeds United,38,7,10,21,48,78,-30,31,0.82,47.4,67.2,-19.8,-0.52,"36,566",Illan Meslier,Relegated,,Rodrigo , 13
+20, Southampton,38,6,7,25,36,73,-37,25,0.66,37.7,61.0,-23.3,-0.61,"30,440",Gavin Bazunu,Relegated,,James Ward Prowse , 9
